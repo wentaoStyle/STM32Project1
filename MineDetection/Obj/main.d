@@ -1,0 +1,16 @@
+.\Obj\main.o: user\main.c
+.\Obj\main.o: user\fsmc_sram.h
+.\Obj\main.o: .\CM3\stm32f10x.h
+.\Obj\main.o: .\CM3\core_cm3.h
+.\Obj\main.o: D:\keil3\新建文件夹\ARM\RV31\INC\stdint.h
+.\Obj\main.o: .\CM3\system_stm32f10x.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_conf.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Obj\main.o: .\CM3\stm32f10x.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_adc.h
+.\Obj\main.o: .\FWlib\inc\misc.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_dma.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_usart.h
+.\Obj\main.o: D:\keil3\新建文件夹\ARM\RV31\INC\stdarg.h
